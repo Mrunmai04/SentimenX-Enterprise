@@ -1,9 +1,15 @@
-# 🧠 SentimenX Enterprise: Intelligence Dashboard
-> **Enterprise-grade Sentiment Analysis & Explainable AI (XAI) Platform**
+# 🧠 SentimenX: Customer Feedback Intelligence
+> **A smart dashboard that helps businesses understand their customers using AI.**
 
-SentimenX is a high-fidelity ML Inference Engine designed to transform unstructured customer feedback into actionable business intelligence. Built for high-volume environments, it features deep transparency through Explainable AI (XAI) and a Human-in-the-Loop validation pipeline.
+SentimenX is a tool that takes thousands of customer reviews and instantly tells you which ones are happy and which ones are frustrated. Unlike other tools, SentimenX doesn't just give a "Positive" or "Negative" result—it actually **shows you why** it made that choice by highlighting the most important words in the text.
 
 ---
+
+## 🌟 What makes it special?
+
+* **Explainable AI:** It doesn't hide its logic. You can see exactly which words influenced the score.
+* **Massive Scale:** You can upload a single sentence or a 1,000-row CSV file; the system handles both in seconds.
+* **Human-in-the-Loop:** If the AI makes a mistake, you can flag it with a "Correct/Incorrect" button to help the model learn over time.
 
 ## 🖥️ System Overview
 
